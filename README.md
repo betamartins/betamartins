@@ -25,7 +25,7 @@ I like to spend quality time with my family, I like to read (especially fantasy 
 </div>
 
 ## Studying
-:zap: Flutter
+:zap: GoLang
 
 :zap: MongoDB
 
