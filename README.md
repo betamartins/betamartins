@@ -25,17 +25,11 @@ I like to spend quality time with my family, I like to read (especially fantasy 
 </div>
 
 ## Studying
-:zap: GoLang
-
-:zap: MongoDB
-
-:zap: Linux
-
-:zap: Rabbit MQ
-
-:zap: Microservices architecture
-
-:zap: Microsoft Azure
+:zap: Python  
+:zap: Machine Learning  
+:zap: MongoDB  
+:zap: Rabbit MQ  
+:zap: Microservices architecture  
 
 ##
 Bye, Bye :wave:
