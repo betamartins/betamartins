@@ -25,8 +25,6 @@ I like to spend quality time with my family, I like to read (especially fantasy 
 </div>
 
 ## Studying
-:zap: Python  
-:zap: Machine Learning  
 :zap: MongoDB  
 :zap: Rabbit MQ  
 :zap: Microservices architecture  
