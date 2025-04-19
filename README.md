@@ -6,11 +6,11 @@
 </div>
 
 ## About me
-Born in 1993, married to a beautiful woman and father of a wonderful son :family_man_woman_boy: .
+Born in 1993, married to a beautiful woman and father of a two wonderful kids :family_man_woman_boy_boy: .
 
 > I'm bald by choice (from my genetics :rofl: :rofl:)
 
-I work as a senior full stack developer at Linx and also do some freelance work.
+I work as a senior software enginner at Magis5 and also do some freelance work.
 
 I like to spend quality time with my family, I like to read (especially fantasy books, for example: Harry Potter, Lord of the Rings), I like to take time out every day to study and continue learning and evolving personally or professionally.
 
