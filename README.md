@@ -20,6 +20,9 @@ My main focus is backend development, using Java and the Spring framework to bui
 </div>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)  
+profile-night-rainbow.svg
+![Status](./profile-3d-contrib/profile-night-green.svg)  
+profile-night-green.svg
 
 ## Skills
 
