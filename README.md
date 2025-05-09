@@ -19,7 +19,7 @@ My main focus is backend development, using Java and the Spring framework to bui
   <img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betamartins&theme=github_dark" alt="GitHub" style="width: 100%;">
 </div>
 
-![Status](./profile-3d-contrib/profile-night-view.svg)  
+![Status](./profile-3d-contrib/profile-gitblock.svg)  
 
 ## Skills
 
