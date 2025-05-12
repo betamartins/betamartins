@@ -18,9 +18,6 @@ My main focus is backend development, using Java and the Spring framework to bui
 <div align="center">
   <img loading="lazy" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betamartins&theme=github_dark" alt="GitHub" style="width: 100%;">
 </div>
-<br>
-
-![Status](./profile-3d-contrib/profile-night-green.svg)  
 
 <br>
 
