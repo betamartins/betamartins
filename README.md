@@ -2,7 +2,7 @@
 
 Hello!  
 
-I'm a software developer with 10 years of experience, currently working at Magis5 as a Software Engineer and at Betacorp, my own company, as Founder and Software Engineer.  
+I'm a software developer with 10 years of experience, currently working at Magis5 as a Software Engineer and at my own company, as Founder and Software Engineer.  
 
 My main focus is backend development, using Java and the Spring framework to build robust and scalable software solutions. Outside of work, I pursue continuous growth through studying and reading.
 
@@ -34,16 +34,11 @@ My main focus is backend development, using Java and the Spring framework to bui
   <img loading="lazy" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img loading="lazy" src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
-  <img loading="lazy" src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Kubuntu">
+  <img loading="lazy" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" alt="Suse">
   <img loading="lazy" src="https://img.shields.io/badge/Linux-003545?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"><br>
   <img loading="lazy" src="https://img.shields.io/badge/Amazon_AWS-1133CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS">
   <img loading="lazy" src="https://img.shields.io/badge/Swagger-6DB33F?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger">
 </div>
-
-## Studying
-
-:zap: Python  
-:zap: Go Lang
 
 ---
 
